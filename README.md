@@ -1,1 +1,2 @@
-# audomadic-regressor
+# Audomadic Regression for Bike Shares
+To run this machine learning regression project, type "python3 audomadic.ipynb" into terminal. Keep in mind that the file is a Jupyter notebook, so you can run individual cells one at a time to follow along with the project journey, or you can run all cells at once to see the final results of our models and their performance.
